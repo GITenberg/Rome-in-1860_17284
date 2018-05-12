@@ -1,0 +1,28 @@
+_repo: Rome-in-1860_17284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dicey, Edward
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '7274'
+    url: http://www.gutenberg.org/2009/agents/7274
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Dicey
+description: Cover -- Contents.
+gutenberg_issued: '2005-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17284'
+  lccn: 04029936
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome (Italy) -- Social life and customs'
+- !lcc 'DG'
+title: Rome in 1860
+url: http://www.gutenberg.org/ebooks/17284
